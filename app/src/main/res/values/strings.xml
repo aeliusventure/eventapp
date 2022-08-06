@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">DesignDemo</string>
+    <string name="events">Events</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="upcoming">Upcoming</string>
+    <string name="passed_events">Passed Events</string>
+    <string name="no_upcoming_events">No upcoming events</string>
+    <string name="tap_the_button_to_create_new_event">Tap the + button to create new event</string>
+    <string name="new_event">New Event</string>
+    <string name="save">Save</string>
+    <string name="event_details">Event Details</string>
+    <string name="event_name">Event Name</string>
+    <string name="remind_me_before_event_this">Remind me before event this</string>
+    <string name="when_to_remind_you_of_this_event_before_this_day">When to remind you of this event before this day</string>
+    <string name="background">Background</string>
+    <string name="pro">PRO</string>
+</resources>
